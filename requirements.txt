@@ -1,0 +1,5 @@
+requests
+Flask
+twilio
+uWSGI
+python-dotenv
